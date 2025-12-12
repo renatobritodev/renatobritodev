@@ -1,5 +1,7 @@
-# 👋🏽 Olá! Eu sou o Renato, Desenvolvedor Web
+# 👋🏽 Olá! Eu sou o Renato Brito
+🚧 Readme em construção...
 
+<!--
 [![Linkedin](https://img.shields.io/badge/-Linkedin-333333?style=flat&logo=Linkedin)](https://www.linkedin.com/in/renatobritodev/)
 [![Gmail](https://img.shields.io/badge/-Gmail-333333?style=flat&logo=Gmail)](mailto:dev.renatobrito@gmail.com)
 
