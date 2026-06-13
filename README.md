@@ -3,11 +3,11 @@
 # Olá, eu sou o Renato Brito 👋🏽
 
 ### 👨‍💻 Sobre mim
-Estou iniciando minha jornada no mundo do desenvolvimento de software. Atualmente, foco meus estudos em **Lógica de Programação** e na linguagem **C**, explorando como o computador gerencia memória e dados.
+Estou iniciando minha jornada no mundo do desenvolvimento de software. Atualmente, estou passando pelo segundo semestre do curso de **Ciência da Computação**. Tenho focado meus estudos em **Desenvolvimento Web (HTML5, CSS3, JavaScript e PHP)** e na linguagem **Python**.
 
 - 🎓 Cursando: Ciência da Computação
-- 🎯 Objetivo atual: Dominar os fundamentos de algoritmos e estruturas de dados.
-- ⚡ Curiosidade: Adoro resolver desafios de lógica (como o projeto Super Trunfo de Países!).
+- 🎯 Objetivo atual: Dominar os fundamentos de algoritmos, estruturas de dados e programação orientada a objetos.
+- ⚡ Curiosidade: Tenho noção de design gráfico (logo desengolver páginas web tem sido satisfatório).
 
 ---
 
