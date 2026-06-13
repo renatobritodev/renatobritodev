@@ -7,7 +7,7 @@ Estou iniciando minha jornada no mundo do desenvolvimento de software. Atualment
 
 - 🎓 Cursando: Ciência da Computação
 - 🎯 Objetivo atual: Dominar os fundamentos de algoritmos, estruturas de dados e programação orientada a objetos.
-- ⚡ Curiosidade: Estudei design gráfico por um tempo, logo desengolver páginas web tem sido satisfatório.
+- ⚡ Curiosidade: Estudei design gráfico por um tempo, logo desenvolver páginas web tem sido satisfatório.
 
 ---
 
