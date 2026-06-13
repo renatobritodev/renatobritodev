@@ -21,7 +21,7 @@ Estou iniciando minha jornada no mundo do desenvolvimento de software. Atualment
 ---
 
 ### 🚀 Meu Projeto Principal
-* **[FazenTECH](https://github.com/renatobritodev/fazentech):** Página institucional fictícia sobre uma fazenda que produz alimentos em grande escala.
+* **[FazenTECH](https://github.com/renatobritodev/fazentech):** Página institucional fictícia sobre uma fazenda que produz alimentos naturais livres de agrotóxicos em grande escala.
 ---
 
 ### 📊 Estatísticas
