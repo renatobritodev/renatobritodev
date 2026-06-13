@@ -21,8 +21,7 @@ Estou iniciando minha jornada no mundo do desenvolvimento de software. Atualment
 ---
 
 ### 🚀 Meu Projeto Principal
-* **[Super Trunfo - Países](https://github.com/renatobritodev/cadastro-cartas-renatobritodev):** Um jogo de cartas desenvolvido em C para praticar entrada/saída de dados, manipulação de strings e cálculos de densidade demográfica e PIB per capita.
-
+* **[FazenTECH](https://github.com/renatobritodev/fazentech):** Página institucional fictícia sobre uma fazenda que produz alimentos em grande escala.
 ---
 
 ### 📊 Estatísticas
