@@ -1,6 +1,6 @@
 🚧 Readme em construção...
 
-# Olá, eu sou o Renato Brito! 👋🏽
+# Olá, eu sou o Renato Brito 👋🏽
 
 ### 👨‍💻 Sobre mim
 Estou iniciando minha jornada no mundo do desenvolvimento de software. Atualmente, foco meus estudos em **Lógica de Programação** e na linguagem **C**, explorando como o computador gerencia memória e dados.
